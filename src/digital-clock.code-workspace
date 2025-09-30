@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../code/digital-clock"
+		},
+		{
+			"name": "250926-140521-nanoatmega168",
+			"path": "../../250926-140521-nanoatmega168"
+		},
+		{
+			"name": "digital-clock",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
