@@ -34,5 +34,7 @@ void lightCustom(int leds[], int length) {
     ledStates[leds[i]] = 1;
   }
   updateShiftRegisters();
-  delay(10000);
+  delay(1000);        // keep them on for 1 second
+  clearAll();
+  updateShiftRegisters();
 }
